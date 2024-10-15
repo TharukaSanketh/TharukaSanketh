@@ -17,26 +17,16 @@ int main() {
         <img src="https://u8views.com/api/v1/github/profiles/121316018/views/day-week-month-total-count.svg" alt="Tharuka Sanketh profile views">
     </a>
 </p>
-
-
-<table align="center" border="0">
-<tr>
-<td width="50%" align="left">
-  
 - 🌱 I’m currently learning **Backend developing, Mobile app development etc.**
 
 - 💬 Ask me about **Frontend developing, UI Designing and editing**
 
-- 📫 How to reach me **tharukakarunanayaka6@gmail.con**
+- 📫 How to reach me **tharukakarunanayaka6@gmail.com**
 
-</td>
-  <td width="50%" align="center">
-    <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">  
-  </td>
-</tr>
-</table>
+<br>
 
 ---
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/tharukasanketh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tharukasanketh" height="30" width="40" /></a>
