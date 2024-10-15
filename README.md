@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharuka Sanketh</h1>
-<h3 align="center">self-taught developer, UI designer and editor | Let’s connect if you share a passion for IT and innovation!</h3>
+<h3 align="center">Self-taught developer, UI designer and editor | Let’s connect if you share a passion for IT and innovation!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skynettheone&label=Profile%20views&color=0e75b6&style=flat" alt="skynettheone" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=skynettheone&label=Profile%20views&color=0e75b6&style=flat" alt="skynettheone" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skynettheone" alt="skynettheone" /></a> </p>
 
