@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tharuka Sanketh</h1>
+<p align="center" ><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" /></p>
+<h1 align="center">Helloworld👋, I'm Tharuka Sanketh</h1>
 <h3 align="center">Self-taught developer, UI designer and editor | Let’s connect if you share a passion for IT and innovation!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=skynettheone&label=Profile%20views&color=0e75b6&style=flat" alt="skynettheone" /> </p>
