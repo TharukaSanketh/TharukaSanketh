@@ -1,4 +1,4 @@
-<p align="center" ><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" /></p>
+<p align="center" ><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" /></p>
 <h1 align="center">Helloworld👋, I'm Tharuka Sanketh</h1>
 <h3 align="center">Self-taught developer, UI designer and editor | Let’s connect if you share a passion for IT and innovation!</h3>
 
