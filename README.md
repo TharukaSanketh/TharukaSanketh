@@ -24,8 +24,6 @@ int main() {
 
 - 📫 How to reach me **tharukakarunanayaka6@gmail.com**
 
-<br>
-
 ---
 
 <h3 align="center">Connect with me:</h3>
