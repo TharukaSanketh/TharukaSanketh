@@ -17,6 +17,7 @@ int main() {
         <img src="https://u8views.com/api/v1/github/profiles/121316018/views/day-week-month-total-count.svg" alt="Tharuka Sanketh profile views">
     </a>
 </p>
+
 - 🌱 I’m currently learning **Backend developing, Mobile app development etc.**
 
 - 💬 Ask me about **Frontend developing, UI Designing and editing**
