@@ -44,8 +44,11 @@ int main() {
 ---
 
 <div align="center">
-    <h3>🐍 My Contributions</h3>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Skynettheone/Skynettheone/output/github-contribution-grid-snake.svg" />
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Skynettheone/Skynettheone/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 
 <h3 align="center">✍️ Random Dev Quote</h3>
