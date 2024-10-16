@@ -28,12 +28,12 @@ int main() {
 
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
-<a href="https://twitter.com/tharukasanketh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tharukasanketh" height="30" width="40" /></a>&nbsp;
-<a href="https://linkedin.com/in/tharuka karunanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharuka karunanayaka" height="30" width="40" /></a>&nbsp;
-<a href="https://stackoverflow.com/users/skynettheone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="skynettheone" height="30" width="40" /></a>&nbsp;
 <a href="https://instagram.com/@_tharuka.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_tharuka.k" height="30" width="40" /></a>&nbsp;
-<a href="https://www.behance.net/skynetdesigns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="skynetdesigns" height="30" width="40" /></a>&nbsp;
+<a href="https://linkedin.com/in/tharuka karunanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharuka karunanayaka" height="30" width="40" /></a>&nbsp;
+<a href="https://twitter.com/tharukasanketh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tharukasanketh" height="30" width="40" /></a>&nbsp;
 <a href="https://discord.gg/974668087355904000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="974668087355904000" height="30" width="40" /></a>&nbsp;
+<a href="https://stackoverflow.com/users/skynettheone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="skynettheone" height="30" width="40" /></a>&nbsp;
+<a href="https://www.behance.net/skynetdesigns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="skynetdesigns" height="30" width="40" /></a>&nbsp;
 </p>
 
 ---
