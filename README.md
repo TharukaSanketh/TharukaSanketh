@@ -43,6 +43,13 @@ int main() {
 
 ---
 
+<div align="center">
+    <h3>🐍 My Contributions</h3>
+    
+
+
+</div>
+
 <h3 align="center">✍️ Random Dev Quote</h3>
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="GitHub Quote">
