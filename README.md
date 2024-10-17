@@ -12,13 +12,12 @@ int main() {
 }
 
 ```
-<br>
+
 <p align="center">
     <a href="https://u8views.com/github/Skynettheone">
         <img src="https://u8views.com/api/v1/github/profiles/121316018/views/day-week-month-total-count.svg" alt="Tharuka Sanketh profile views">
     </a>
 </p>
-<br>
 
 - 🌱 I’m currently learning **Backend developing, Mobile app development etc.**
 
