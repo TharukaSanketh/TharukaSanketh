@@ -19,6 +19,7 @@ int main() {
     </a>
 </p>
 <br>
+
 - 🌱 I’m currently learning **Backend developing, Mobile app development etc.**
 
 - 💬 Ask me about **Frontend developing, UI Designing and editing**
